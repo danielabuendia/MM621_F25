@@ -18,7 +18,9 @@ Products should be delightful, not just functional. Bad design forces users to a
 ### **_Feedback:_** a way of letting you know the system is working on your request (computer lights on when starting, low-battery warning). 
 ![This is a computer](https://media.istockphoto.com/id/2149990144/vector/laptop-computer-with-low-battery-sign-on-screen.jpg?s=612x612&w=0&k=20&c=NDo9JDi4rxf9vbRtEjz0QDgNky3-aFvbz2A0uUHzEbs=)
 
-## **Conceptual models:** an explanation of how something works, that help us predict the effects of our actions(folders/files icons on a computer).
+## **Conceptual models:**
+An explanation of how something works, that help us predict the effects of our actions(folders/files icons on a computer).
+
 ![This is a computer](https://tecnologia-informatica.com/wp-content/uploads/2018/05/que-son-las-carpetas-1.jpeg)
 
 ## Paradox of technology
