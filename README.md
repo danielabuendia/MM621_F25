@@ -18,3 +18,5 @@ This is an image below:
 
 ![This is the picture of a golden retriever](https://www.akc.org/wp-content/uploads/2020/07/Golden-Retriever-puppy-standing-outdoors.jpg)
 
+## In-Class Exercise
+[Character/Scene Randomizer Ex 1](exercise/characterRandomizer/index.html)
